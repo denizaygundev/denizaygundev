@@ -1,8 +1,8 @@
-## Hi,
+## Hi, I'm Deniz 👋
 
-I'm Deniz, a Software Engineer from London with over 8 years of commercial experience and a degree in Computer Science from the University of Kent. 
+A Software Engineer from London with over 9 years of commercial experience and a degree in Computer Science from the University of Kent. 
 
-I specalise in Laravel and it's ecosystem (truly love everything about it), with exposure to the likes of React, ReactNative, Vue, Tailwind etc.
+I specialise in Laravel and it's ecosystem (truly love everything about it), with exposure to the likes of React, ReactNative, Vue, Tailwind etc.
 
 Currently I'm leading the engineering team at Kick Game, and in my free time I'm working on a Laravel-powered ReactNative app for helping people to "streakify" habits, outside of that I enjoy attending developer meetups, maintaining a smart home, optimising and tinkering with every setting on almost every device I own (it's very satisfying and interesting), and seeing where AI can have feasible and valuable impact. 
 <!--
